@@ -1,5 +1,3 @@
-#Capstone-Project
-
 Measuring impact and updating AI model for a telecommunication or communication service provider (CSP) industry.
 
 I developed a business proposal which higlights the several important aspects of the product development.
